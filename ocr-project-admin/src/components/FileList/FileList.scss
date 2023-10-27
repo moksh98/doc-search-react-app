@@ -1,0 +1,21 @@
+.fl{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 1.2em;
+    margin-left: 0.5em;
+}
+ul{
+    width:100%;
+    max-height: 210px;
+    overflow-y: auto;
+}
+
+.title {
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 1em;
+}

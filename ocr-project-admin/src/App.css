@@ -1,0 +1,22 @@
+.header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+}
+body{
+  display: flex;
+  flex-direction: column;
+  background-color: #e5e5e5
+}
+article {
+  margin: auto 0;
+}
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  overflow: hidden;
+}
